@@ -209,8 +209,8 @@ class Controller2D(object):
                 example, can treat self.vars.v_previous like a "global variable".
             """
             
-            #  25 5.5
-            k_e = 0.25
+            #  0.25 5.3
+            k_e = 0.4
             k_s = 5.3
             
             # Heading Error
