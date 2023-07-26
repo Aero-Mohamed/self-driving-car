@@ -5,3 +5,4 @@
 - Good for you to use the Quaternion Class along with what you will learn and make your own reference.
 - Highly Recommend to get to know Point Coud Library (C++) PCL
 - Search about Iterative Closest Point Algorithm (ICP) which used to estimate the best transformation between clouds what describe ego(self) motion.
+    https://pcl.readthedocs.io/projects/tutorials/en/master/iterative_closest_point.html#iterative-closest-point
